@@ -1,5 +1,5 @@
-// jest-dom adds custom jest matchers for asserting on DOM nodes.
-// allows you to do things like:
+// jest-dom dodaje niestandardowe dopasowywacze jest do asercji na węzłach DOM.
+// pozwala robić takie rzeczy jak:
 // expect(element).toHaveTextContent(/react/i)
-// learn more: https://github.com/testing-library/jest-dom
-import '@testing-library/jest-dom';
+// więcej informacji: https://github.com/testing-library/jest-dom
+import "@testing-library/jest-dom";
